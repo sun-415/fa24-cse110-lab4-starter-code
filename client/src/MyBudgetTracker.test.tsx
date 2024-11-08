@@ -118,7 +118,7 @@ describe("Budget Balance Verification", () => {
 
     expect(budgetVal).toBe(remainingVal + spentVal);
     expect(remainingVal).toBe(516);
-    expect(spentVal).toBe(4840);
+    expect(spentVal).toBe(484);
   });
 
 
